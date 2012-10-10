@@ -29,7 +29,7 @@ License: GPL v2
 load_plugin_textdomain( 'jam-recent-posts', false, basename( dirname( __FILE__ ) ) . '/languages' );
 
 /**
- * Adds Foo_Widget widget.
+ * Adds JAM_Recent_Posts widget.
  */
 class JAM_Recent_Posts extends WP_Widget {
 
